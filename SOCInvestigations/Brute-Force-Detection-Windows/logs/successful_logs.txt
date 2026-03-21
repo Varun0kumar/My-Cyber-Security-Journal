@@ -1,0 +1,183 @@
+
+
+TimeCreated : 3/20/2026 10:36:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:35:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:34:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:34:11 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:34:11 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : xxxx:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:34:11 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : 192.168.0.105
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:34:11 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:34:11 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : xxxx:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:33:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : xxxx:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:33:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : xxxx:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:33:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:33:06 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : xxxx:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:32:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:31:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:30:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:29:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:29:11 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:29:11 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : xxxx:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:29:11 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : 192.168.0.105
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:29:11 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:29:11 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : xxxx:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:28:52 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : xxxx:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:28:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : xxxx:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:28:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : xxxx:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:28:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:28:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : fe80::7999:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:28:18 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : fe80::7999:xxxx:xxxx:xxxx
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:27:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:26:48 PM
+Id          : 4624
+User        : WIN-JB9SK2APR71$
+SourceIP    : ::1
+LogonType   : 3
+
+TimeCreated : 3/20/2026 10:26:24 PM
+Id          : 4624
+User        : Administrator
+SourceIP    : 192.168.x.xxx
+LogonType   : 3
+
+

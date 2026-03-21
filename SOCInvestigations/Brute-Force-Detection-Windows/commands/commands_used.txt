@@ -1,0 +1,34 @@
+# Commands Used
+
+## Enable Logging
+
+auditpol /set /category:"Logon/Logoff" /success:enable /failure:enable
+auditpol /set /category:"Account Logon" /success:enable /failure:enable
+auditpol /set /category:"Detailed Tracking" /success:enable
+
+## Failed Log Extraction
+
+Get-WinEvent -FilterHashtable @{LogName='Security'; ID=4625} -MaxEvents 30 |
+Select-Object TimeCreated, Id,
+@{Name='User';Expression={$*.Properties[5].Value}},
+@{Name='SourceIP';Expression={$*.Properties[19].Value}},
+@{Name='LogonType';Expression={$_.Properties[8].Value}} |
+Out-File C:\Users\Administrator\failed_logs.txt
+
+## Successful Log Extraction
+
+Get-WinEvent -FilterHashtable @{LogName='Security'; ID=4624} -MaxEvents 30 |
+Select-Object TimeCreated, Id,
+@{Name='User';Expression={$*.Properties[5].Value}},
+@{Name='SourceIP';Expression={$*.Properties[18].Value}},
+@{Name='LogonType';Expression={$_.Properties[8].Value}} |
+Out-File C:\Users\Administrator\successful_logs.txt
+
+## Process Execution Logs
+
+Get-WinEvent -FilterHashtable @{LogName='Security'; ID=4688} -MaxEvents 30 |
+Select-Object TimeCreated,
+@{Name='ProcessName';Expression={$*.Properties[5].Value}},
+@{Name='CommandLine';Expression={$*.Properties[8].Value}},
+@{Name='User';Expression={$_.Properties[1].Value}} |
+Out-File C:\Users\Administrator\process_logs.txt

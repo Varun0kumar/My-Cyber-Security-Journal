@@ -1,0 +1,34 @@
+
+TimeCreated           ProcessName                             CommandLine User            
+-----------           -----------                             ----------- ----            
+3/20/2026 11:17:06 PM C:\Windows\System32\wbem\WmiPrvSE.exe               WIN-JB9SK2APR71$
+3/20/2026 11:17:06 PM C:\Windows\System32\MoUsoCoreWorker.exe             WIN-JB9SK2APR71$
+3/20/2026 11:13:19 PM C:\Windows\System32\sppsvc.exe                      WIN-JB9SK2APR71$
+3/20/2026 11:12:08 PM C:\Windows\System32\taskhostw.exe                   WIN-JB9SK2APR71$
+3/20/2026 10:48:24 PM C:\Windows\System32\conhost.exe                     WIN-JB9SK2APR71$
+3/20/2026 10:48:24 PM C:\Windows\System32\taskhostw.exe                   WIN-JB9SK2APR71$
+3/20/2026 10:48:24 PM C:\Windows\System32\LogonUI.exe                     WIN-JB9SK2APR71$
+3/20/2026 10:43:18 PM C:\Windows\System32\sppsvc.exe                      WIN-JB9SK2APR71$
+3/20/2026 10:42:24 PM C:\Windows\System32\wbem\WmiPrvSE.exe               WIN-JB9SK2APR71$
+3/20/2026 10:42:24 PM C:\Windows\System32\MoUsoCoreWorker.exe             WIN-JB9SK2APR71$
+3/20/2026 10:27:19 PM C:\Windows\System32\MoUsoCoreWorker.exe             WIN-JB9SK2APR71$
+3/20/2026 10:26:24 PM C:\Windows\System32\cmd.exe                         WIN-JB9SK2APR71$
+3/20/2026 10:25:57 PM C:\Windows\System32\conhost.exe                     WIN-JB9SK2APR71$
+3/20/2026 10:25:57 PM C:\Windows\System32\cmd.exe                         WIN-JB9SK2APR71$
+3/20/2026 10:25:57 PM C:\Windows\System32\qwinsta.exe                     WIN-JB9SK2APR71$
+3/20/2026 10:25:57 PM C:\Windows\System32\conhost.exe                     WIN-JB9SK2APR71$
+3/20/2026 10:25:57 PM C:\Windows\System32\cmd.exe                         WIN-JB9SK2APR71$
+3/20/2026 10:25:52 PM C:\Windows\System32\cmd.exe                         WIN-JB9SK2APR71$
+3/20/2026 10:25:39 PM C:\Windows\System32\whoami.exe                      Administrator   
+3/20/2026 10:25:38 PM C:\Windows\System32\conhost.exe                     Administrator   
+3/20/2026 10:25:33 PM C:\Windows\System32\cmd.exe                         WIN-JB9SK2APR71$
+3/20/2026 10:25:33 PM C:\Windows\System32\wbem\WmiPrvSE.exe               WIN-JB9SK2APR71$
+3/20/2026 10:25:13 PM C:\Windows\System32\DeviceCensus.exe                WIN-JB9SK2APR71$
+3/20/2026 10:23:36 PM C:\Windows\System32\winlogon.exe                    WIN-JB9SK2APR71$
+3/20/2026 10:23:36 PM C:\Windows\System32\csrss.exe                       WIN-JB9SK2APR71$
+3/20/2026 10:23:36 PM C:\Windows\System32\smss.exe                        WIN-JB9SK2APR71$
+3/20/2026 10:23:36 PM C:\Windows\System32\winlogon.exe                    WIN-JB9SK2APR71$
+3/20/2026 10:23:36 PM C:\Windows\System32\csrss.exe                       WIN-JB9SK2APR71$
+3/20/2026 10:23:36 PM C:\Windows\System32\smss.exe                        WIN-JB9SK2APR71$
+3/20/2026 10:23:34 PM C:\Windows\System32\winlogon.exe                    WIN-JB9SK2APR71$
+
