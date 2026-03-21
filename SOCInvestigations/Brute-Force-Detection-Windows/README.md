@@ -1,5 +1,9 @@
 # Brute Force Attack Detection & Investigation (Windows Event Logs)
 
+## Incident Summary
+
+A brute force attack was successfully simulated and detected using Windows Security Event Logs. The attacker gained access via SMB after multiple failed login attempts and executed commands on the compromised system.
+
 ## Objective
 
 To simulate a brute force attack in a lab environment and investigate it using Windows Security Event Logs.
