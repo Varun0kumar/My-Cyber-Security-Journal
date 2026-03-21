@@ -18,6 +18,20 @@ To simulate a brute force attack in a lab environment and investigate it using W
 3. Successfully obtained credentials using SMB
 4. Executed commands (`whoami`, `qwinsta`) after login
 
+## Attack Scenario
+
+An attacker from Kali Linux attempted multiple login attempts against a Windows Server 2022 machine using SMB authentication.
+After multiple failed attempts (Event ID 4625), a successful login (Event ID 4624) was observed.
+Post-authentication, the attacker executed commands such as `whoami` and `qwinsta`, indicating system access.
+
+## Detection Logic
+
+- Multiple failed logins from same IP → Event ID 4625
+- Followed by successful login → Event ID 4624
+- Followed by process execution → Event ID 4688
+
+This pattern indicates a brute force attack leading to compromise.
+
 ## 🔍 Detection Phase
 
 ### Failed Login Attempts (Event ID: 4625)
@@ -50,6 +64,11 @@ Observed attacker activity:
 
 Screenshot:
 ![Process Logs](screenshots/process_logs.png)
+
+## Real-World Relevance
+
+This type of attack is common in enterprise environments where attackers attempt password spraying or brute force attacks on exposed services such as SMB or RDP.
+SOC analysts use log correlation techniques like this to detect early-stage compromise.
 
 ## Key Findings
 
