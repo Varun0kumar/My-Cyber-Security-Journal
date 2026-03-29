@@ -25,7 +25,7 @@ To simulate a brute force attack in a lab environment and investigate it using W
 ## Attack Scenario
 
 An attacker from Kali Linux attempted multiple login attempts against a Windows Server 2022 machine using SMB authentication.
-After multiple failed attempts (Event ID 4625), a successful login (Event ID 4624) was observed.
+After multiple failed attempts (Event ID 4625), a successful login (Event ID 4624) was observed using Logon Type 3 (Network).
 Post-authentication, the attacker executed commands such as `whoami` and `qwinsta`, indicating system access.
 
 ## Detection Logic
