@@ -24,6 +24,11 @@ Alert triggered due to detection of "ls" keyword in the requested URL. Upon anal
 - No relevant malicious logs found  
 
 ---
+## Tools Used
+
+- VirusTotal
+- CyberChef
+
 
 ## Final Verdict
 
