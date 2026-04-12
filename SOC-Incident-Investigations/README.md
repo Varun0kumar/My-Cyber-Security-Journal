@@ -4,13 +4,13 @@ This repository contains my hands-on Security Operations Center (SOC) investigat
 
 ---
 
-## 📌 Objective
+## Objective
 
 To develop practical SOC Analyst skills by working on security alerts, analyzing logs, identifying threats, and documenting investigation workflows in a structured and professional manner.
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 - Log Analysis (Windows Event Logs, Web Logs)
 - Alert Triage and Basic Incident Investigation
@@ -21,7 +21,7 @@ To develop practical SOC Analyst skills by working on security alerts, analyzing
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 
 SOC-Incident-Investigations/
@@ -41,7 +41,7 @@ SOC-Incident-Investigations/
 └── README.md
 ---
 
-## 🔍 Investigation Approach
+## Investigation Approach
 
 For each investigation, I follow a structured SOC workflow:
 
@@ -55,7 +55,7 @@ For each investigation, I follow a structured SOC workflow:
 
 ---
 
-## 🧰 Tools & Platforms Used
+## Tools & Platforms Used
 
 - LetsDefend  
 - Blue Team Labs Online (BTLO)  
@@ -64,7 +64,7 @@ For each investigation, I follow a structured SOC workflow:
 - CyberChef 
 ---
 
-## 📄 What Each Investigation Contains
+## What Each Investigation Contains
 
 - Alert Details  
 - Investigation Steps  
@@ -74,7 +74,7 @@ For each investigation, I follow a structured SOC workflow:
 
 ---
 
-## 🚀 Key Learning Outcomes
+## Key Learning Outcomes
 
 - Developed a practical understanding of SOC workflows  
 - Improved ability to analyze and correlate logs  
@@ -84,17 +84,17 @@ For each investigation, I follow a structured SOC workflow:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 All investigations are performed in controlled lab environments (LetsDefend, BTLO, and personal home lab). No real-world systems were harmed.
 
 ---
 
-## 📬 Connect with Me
+## Connect with Me
 
 - LinkedIn: https://www.linkedin.com/in/varunkumarprofile  
 - GitHub: https://github.com/Varun0kumar  
 
 ---
 
-⭐ This repository is part of my journey to become a SOC Analyst.
+This repository is part of my journey to become a SOC Analyst.
